@@ -1,4 +1,4 @@
-git clone https://github.com/discourse/discourse_docker.git /tmp/discourse_shell
+git clone https://github.com/discourse/discourse_docker.git /tmp/discourse_docker
 
 mkdir /tmp/discourse_shell
 cp -a /tmp/discourse_docker/image/base/* /tmp/discourse_shell/
